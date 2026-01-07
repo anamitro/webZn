@@ -8,4 +8,4 @@
 
 | <span style="font-family: 'Noto Serif Bengali', serif;">ভারতীয় গণিত বলে কিছু হয়?, Ei Samay, 04/01/2026, p.8</span> |
 | --- |
-| |
+| [![Static Badge](https://img.shields.io/badge/Read_more-red?style=for-the-badge&color=red)](banglabhasaha-parichay.html) |
